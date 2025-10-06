@@ -1,6 +1,12 @@
-# 💫 About Me:
+# About Me:
 
-👋 Hi there!<br><br>💼 I'm currently working on: a React + Firebase app that helps scouts track progress and earn digital badges.<br><br>🤝 I'm looking to collaborate on: open-source tools that make learning and productivity more fun.<br><br>🧩 I'm looking for help with: improving UI/UX workflows and accessibility in web apps.<br><br>📚 I'm currently learning: Next.js, TypeScript, and serverless architecture.<br><br>💬 Ask me about: frontend development, design systems, or turning creative ideas into working prototypes.<br><br>🎯 Fun fact: I love building small side projects that start as jokes but end up actually useful.
+👋 Hi there!<br><br>
+💼 I'm currently working on: Engolpio.gr — a React app that helps scouts track progress and earn digital badges.<br><br>
+🤝 I'm looking to collaborate on: projects that bring together design, tech, and community impact.<br><br>
+🧩 I'm looking for help with: improving backend structure and optimizing APIs for performance.<br><br>
+📚 I'm currently learning: Next.js, TypeScript, and serverless architecture.<br><br>
+💬 Ask me about: frontend development, product design, or turning creative ideas into scalable web apps.<br><br>
+🎯 Fun fact: I love building small side projects that start as jokes but end up actually useful.
 
 ## 🌐 Socials:
 
